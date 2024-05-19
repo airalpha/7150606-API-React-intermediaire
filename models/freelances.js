@@ -1,4 +1,4 @@
-const origin = window.location.origin || 'http://localhost:8000'
+const origin = 'https://seven150606-api-react-intermediaire-91vs.onrender.com'
 
 const freelances = [
 	{
